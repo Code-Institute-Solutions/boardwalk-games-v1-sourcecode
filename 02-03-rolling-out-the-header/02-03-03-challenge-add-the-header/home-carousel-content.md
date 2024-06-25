@@ -1,13 +1,3 @@
-# Home page content
-
-## Header text
-
-**Heading:** Boardwalk Games
-
-**Subheading:** Your next adventure is waiting!
-
-**Paragraph:** Welcome to Boardwalk Games, Your Ultimate Gaming Getaway! Escape into the world of board games and café delights. Whether you're a casual gamer seeking a cosy nook to unwind, a board game enthusiast ready for your next challenge, or a student gamer looking for a fun, affordable hangout, we've got you covered.
-
 ## Carousel content
 
 ### Slide 1
