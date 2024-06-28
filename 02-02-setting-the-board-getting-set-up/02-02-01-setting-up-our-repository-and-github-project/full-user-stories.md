@@ -16,7 +16,7 @@ Tasks
 
 Acceptance Criteria
 - The homepage features a carousel with high-quality images of the café and game selection that rotates automatically and allows manual navigation.
-- Engaging descriptions of the café's ambience and available favourite games are displayed clearly and concisely within the site's content.
+- Engaging descriptions of the available services are displayed clearly and concisely within the site's content.
 - The homepage layout prominently features the images and descriptions in an uncluttered manner.
 
 Tasks
