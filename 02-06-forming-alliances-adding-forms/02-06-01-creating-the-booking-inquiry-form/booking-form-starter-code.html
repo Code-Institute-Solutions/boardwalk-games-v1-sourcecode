@@ -1,0 +1,58 @@
+  <!-- header section -->
+  <header id="header" class="container section">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-8 text-center text-xl-start">
+            <h1 class="display-3">Boardwalk Games</h1>
+            <p class="my-4">
+                Thank you for choosing to reserve a spot at Boardwalk Games! Please
+                fill out the form below with your details and preferred event. A
+                member of our team will call you back as soon as possible to confirm
+                your booking and answer any questions you may have.
+            </p>
+        </div>
+    </div>
+</header>
+
+<main>
+    <!-- Booking inquiry form section -->
+    <section id="booking-form" class="container section">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8">
+                <h2>Booking inquiry</h2>
+                <form>
+                    <div class="row">
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input class="form-control" id="name">
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input class="form-control" id="email">
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="phone" class="form-label">Phone number</label>
+                            <input class="form-control" id="phone">
+                        </div>
+                        <div class="col-12 col-lg-6 mb-3">
+                            <label for="event-type" class="form-label">Event type</label>
+                            <select id="event-type" class="form-select">
+                                <option selected>Select</option>
+                                <option value="regular-play">Reserve a table</option>
+                                <option value="dnd">Dungeons & Dragons</option>
+                                <option value="retro-night">Retro Game Night</option>
+                                <option value="tournament">Tournament</option>
+                                <option value="kids-party">Kids party</option>
+                            </select>
+                        </div>
+                        <div class="col-12 mb-3">
+                            <label for="message" class="form-label">Message</label>
+                            <textarea class="form-control" rows="6"></textarea>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </section>
+</main>
