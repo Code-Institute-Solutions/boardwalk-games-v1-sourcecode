@@ -9,7 +9,7 @@
 - **Image file:** new-games-1.webp
 - **Image alt text:** Galaxy Pioneers board game
 - **Card title:** Galaxy Pioneers
-- **Card text:** Utilize resources wisely, negotiate with alien species, and navigate cosmic events to expand your interstellar empire.
+- **Card text:** Utilise resources wisely, negotiate with alien species, and navigate cosmic events to expand your interstellar empire.
 - **Number of players:** 2-4
 - **Ages:** 12+
 
