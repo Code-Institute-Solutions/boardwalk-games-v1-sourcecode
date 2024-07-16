@@ -46,7 +46,7 @@ Tasks
 Acceptance Criteria
 
 - The website contains a dedicated section for location, contact details, and opening hours.
-- TThis section is clearly visible and accessible from all parts of the website.
+- This section is clearly visible and accessible from all parts of the website.
 
 Tasks
 
